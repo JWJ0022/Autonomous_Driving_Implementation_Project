@@ -1,5 +1,5 @@
 # Autonomous_Driving_Implementation_Project
-HDA 기반 운전자 모니터링 및 비상 대응 시스템을 주제로 TC275 MCU 기반 모터 제어 코드
+자율주행 기능 구현 프로젝트에서 "HDA 기반 운전자 모니터링 및 비상 대응 시스템"을 주제로 TC275 MCU 기반 DC 모터 제어 구현
 
 - 시스템 아키텍처
 
